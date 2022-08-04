@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 #� �P�a�r�a�g�o�n�-�A�D�S�-�
 �
 �
-![ScreenshotNo01](imgs/001.jpg)
+![ScreenshotNo01](imgs/001.png)
